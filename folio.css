@@ -1,0 +1,86 @@
+title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    border-radius: 50%;
+    height: 7cm;
+    width: 7cm;
+}
+
+p {
+    font-family: 'Caveat', cursive;
+    color: rgb(15, 16, 16);
+}
+
+a {
+    text-align: center;
+}
+
+.item2 {
+    display: flex;
+    justify-content: center;
+    
+}
+.container3 {
+    justify-content: center;
+    border: 5px;
+    width: 2cm;
+    background-color: rgb(217, 218, 221);
+    font-family: 'Caveat', cursive;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+}
+.container1 {
+    width: 8cm;
+    background-color: rgb(217, 218, 221);
+    height: 2.5cm;
+    border-radius: 5px;
+    margin: 10px;
+    font-family: 'Caveat', cursive;
+}
+
+.item1 {
+    display: flex;
+    justify-content: center;
+}
+
+.container2 {
+    width: 10cm;
+    height: 4cm;
+    background-color: rgb(217, 218, 221);
+    justify-content: center;
+    border-radius: 5px;
+    margin: 10px;
+    font-family: 'Caveat', cursive;
+}
+
+.item3 {
+    display: flex;
+    justify-content: center;
+}
+.container4 {
+    width: 3cm;
+    background-color: rgb(217, 218, 221);
+    margin: 10px;
+    border-radius: 5px;
+    font-family: 'Caveat', cursive;
+}
+.container5 {
+    width: 3cm;
+    background-color: rgb(217, 218, 221);
+    margin: 10px;
+    border-radius: 5px;
+    font-family: 'Caveat', cursive;
+}
+
+table {
+    height: 12cm;
+    width: 15cm;
+    background-color: rgb(173, 182, 211);
+}
